@@ -1,0 +1,85 @@
+@charset "utf-8"; /* CSS Document */
+/* Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 992px) and (min-width: 1200px) {  
+
+
+}
+@media only screen and (min-width: 993px) {
+
+}
+@media only screen and (max-width: 992px) { 
+
+}
+/* width: 991px; */
+
+@media screen and (max-width: 61.938em) {
+
+.go-top {position:fixed;right: 10%;}
+.top-header .brand{text-align: center; margin-bottom: 15px;}
+.top-header .top-social{text-align: center;}
+.pujas-listing-content .listing-pane{padding: 0px 0px;}
+.pujas-listing-content .listing-pane .content-item .product-listing{display: block;}
+.pujas-listing-content .listing-pane .content-item .product-listing .box{width: calc(100% - 0px); margin-bottom: 30px;}
+.pujas-listing-content .listing-pane{column-gap: 10px;}
+.video-responsive{overflow:hidden; padding-bottom:56.25%; position:relative; height:0;}
+.pujas-listing-content .listing-pane .nav{height: fit-content; width: 30%; }
+.pujas-listing-content .listing-pane .nav ul li a{font-size: 14px;}
+.footer .copy p{text-align: center;}
+.footer .dfox p{text-align: center;}
+.pujas-listing-content .listing-pane .content{width: 70%;}
+.puja-product-details .puja-details-content .prices-sec{display: block; margin-bottom: 15px;}
+.puja-product-details .puja-details-content .prices-sec .price-block{width: calc(100% - 0px); margin-bottom: 30px;}
+.accordion-content p{text-align: justify;}
+.accordion-content .thirddiv ul li{text-align: justify;}
+.pujas-listing-content .listing-pane .content-item .product-listing .box .price-sec{justify-content: space-between;}
+.related-puja .product-listing .box .price-sec{justify-content: space-between;}
+.pujas-listing-content .listing-pane .content-item .product-listing .box .price-sec a{padding: 7px 10px;  font-size: 11px; font-weight: 500;}
+
+.all-year-puja-price-pane .prices-sec{display: block;}
+.all-year-puja-price-pane .prices-sec .price-block{width: calc(100% - 0px); margin-bottom: 15px;}
+.puja-product-details .lightbox.visible {z-index: 999;}
+.bread-crumb-banner h3 {font-size: 40px;}
+
+.related-puja .product-listing .box .list-cont{display: block;}
+.related-puja .product-listing .box {width: 100%;}
+.related-puja .product-listing {padding: 0px 30px;}
+.related-puja .product-listing {gap: 0px;}
+}
+
+/*============	Media 768Px Start ============ */
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+
+}
+
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+
+@media (min-width: 320px) and (max-width: 768px) {
+
+
+}
+
+@media (min-width: 768px) {
+
+
+
+}
+
+
+
+/*============ Media 300Px Star ============ */
+
+@media (max-width: 480px) {
+
+
+
+}
+
+/*============ Media 320Px Start ============ */
+
+@media (max-width: 320px) {
+
+}
